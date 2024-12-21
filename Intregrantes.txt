@@ -1,0 +1,5 @@
+Integrante
+    Veronica Doris Prado Vargas
+Pasos para iniciar el projecto:
+1. npm install
+2. npm run serve
